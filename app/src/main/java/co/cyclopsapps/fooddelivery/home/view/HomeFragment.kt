@@ -1,4 +1,4 @@
-package co.cyclopsapps.fooddelivery
+package co.cyclopsapps.fooddelivery.home.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
