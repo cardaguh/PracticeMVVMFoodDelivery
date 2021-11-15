@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="co.cyclopsapps.fooddelivery.HomeFragment"
+        android:name="co.cyclopsapps.fooddelivery.home.view.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
